@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="motivation" src="https://github.com/user-attachments/assets/964fca49-b049-45f3-aa88-d4232735edcd" />
 <h1 align="center">Hi there, I'm Kaviya 👋</h1>
 
 <p align="center">
@@ -6,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/motivation.png" alt="Every big journey starts with a single repository" width="700"/>
+  <img width="1536" height="1024" alt="motivation" src="https://github.com/user-attachments/assets/964fca49-b049-45f3-aa88-d4232735edcd" />
 </p>
 
 ---
