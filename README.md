@@ -1,4 +1,3 @@
-<img width="1536" height="1024" alt="motivation" src="https://github.com/user-attachments/assets/964fca49-b049-45f3-aa88-d4232735edcd" />
 <h1 align="center">Hi there, I'm Kaviya 👋</h1>
 
 <p align="center">
