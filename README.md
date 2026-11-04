@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Kaviya 👋</h1>
 
 <p align="center">
-  <br>Final-year B.E. Computer Science & Engineering Student</b><br/>
+  <br>Final-year B.E. Computer Science & Engineering Student</br><br/>
   Full-stack developer (MERN & FastAPI) exploring AI, NLP and Computer Vision
 </p>
 
